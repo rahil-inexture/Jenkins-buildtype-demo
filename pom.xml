@@ -11,6 +11,7 @@
     <groupId>com.springboot.demo</groupId>
     <artifactId>Jenkins-buildtype-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>war</packaging>
     <name>Jenkins-buildtype-demo</name>
     <description>Jenkins-buildtype-demo</description>
     <properties>
